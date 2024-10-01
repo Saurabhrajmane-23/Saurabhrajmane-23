@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Saurabh and I'm a Web Developer, from IIT Jodhpur</h2>
+<h2 align="left">Hey there! I’m Saurabh, a Web Developer from IIT Jodhpur. I love crafting innovative web applications.</h2>
 
 ###
 
